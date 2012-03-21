@@ -1,5 +1,5 @@
 # Dependencies required to develop/test this app.
-
+django
 coverage
 mock
 tox
